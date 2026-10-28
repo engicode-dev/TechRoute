@@ -1,0 +1,24 @@
+{
+  "materials_grades": {
+    "carbon": {
+      "name": "Углеродистая сталь",
+      "items": [
+        {"name": "Ст3сп", "gost": "ГОСТ 14637-89", "hardness_hb": 120, "density": 7850},
+        {"name": "Сталь 45", "gost": "ГОСТ 1050-2013", "hardness_hb": 200, "density": 7850}
+      ]
+    },
+    "alloy": {
+      "name": "Легированная сталь",
+      "items": [
+        {"name": "40Х", "gost": "ГОСТ 4543-2016", "hardness_hb": 250, "density": 7850},
+        {"name": "12Х18Н10Т", "gost": "ГОСТ 5632-2014", "hardness_hb": 180, "density": 7900}
+      ]
+    },
+    "aluminum": {
+      "name": "Алюминий",
+      "items": [
+        {"name": "АД31", "gost": "ГОСТ 21631-2019", "hardness_hb": 60, "density": 2700}
+      ]
+    }
+  }
+}

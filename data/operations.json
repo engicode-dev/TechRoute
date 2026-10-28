@@ -1,0 +1,10 @@
+{
+  "operations": {
+    "1": {"code": "4110", "name": "Токарная", "equipment": "Станок 16К20", "type": "turning"},
+    "2": {"code": "4112", "name": "Сверлильная", "equipment": "Станок 2Н135", "type": "drilling"},
+    "3": {"code": "9150", "name": "Сварочная", "equipment": "Сварочный пост", "type": "welding"},
+    "4": {"code": "0180", "name": "Слесарная", "equipment": "Верстак", "type": "bench"},
+    "5": {"code": "2010", "name": "Заготовительная", "equipment": "Гильотина", "type": "cutting"},
+    "6": {"code": "0200", "name": "Контрольная", "equipment": "Стол ОТК", "type": "control"}
+  }
+}

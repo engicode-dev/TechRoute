@@ -1,0 +1,13 @@
+{
+  "tools": {
+    "turning_rough_soft": { "name": "Резец проходной упорный (Р6М5)", "type": "turning", "max_hardness": 180 },
+    "turning_rough_hard": { "name": "Резец проходной (ВК8)", "type": "turning", "max_hardness": 300 },
+    "turning_finish": { "name": "Резец проходной чистовой (Т15К6)", "type": "turning", "max_hardness": 400 },
+    "drill_soft": { "name": "Сверло спиральное Р6М5", "type": "drilling", "max_hardness": 180 },
+    "drill_hard": { "name": "Сверло твердосплавное ВК8", "type": "drilling", "max_hardness": 300 },
+    "weld_inverter": { "name": "Сварочный инвертор Ресанта САИ-220", "type": "welding", "max_hardness": 999 },
+    "weld_electrode_3": { "name": "Электрод УОНИ-13/55 ⌀3 мм", "type": "welding", "max_hardness": 999 },
+    "weld_electrode_4": { "name": "Электрод УОНИ-13/55 ⌀4 мм", "type": "welding", "max_hardness": 999 },
+    "measuring_calipers": { "name": "Штангенциркуль ШЦ-I-125-0.1", "type": "measuring", "max_hardness": 999 }
+  }
+}

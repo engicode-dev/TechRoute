@@ -1,0 +1,23 @@
+{
+  "stock_shapes": {
+    "list": {
+      "name": "Лист",
+      "items": [
+        {"size": "10×1500×3000", "gost": "ГОСТ 19903-2015", "type": "plate", "thickness": 10}
+      ]
+    },
+    "round": {
+      "name": "Круг",
+      "items": [
+        {"size": "⌀40", "gost": "ГОСТ 2590-2006", "type": "round", "diameter": 40},
+        {"size": "⌀50", "gost": "ГОСТ 2590-2006", "type": "round", "diameter": 50}
+      ]
+    },
+    "tube": {
+      "name": "Труба",
+      "items": [
+        {"size": "⌀57×3.5", "gost": "ГОСТ 8732-78", "type": "tube", "diameter": 57, "wall": 3.5}
+      ]
+    }
+  }
+}
